@@ -31,11 +31,9 @@ StaffValidationMVC/
 ## 💻 Demo
 You can clone this project and run `dotnet run` in your cmd to experience my program.
 Video in below is my quick demo:
-<p align="center">
-  <video src="./assets/staff-validation.mp4" width="full" controls>
-    Your browse not support video tag
-  </video>
-</p>
+<video src="./assets/staff-validation.mp4" width="full" controls>
+  Your browse not support video tag
+</video>
 
 ## 📝 Report Project
 
