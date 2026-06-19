@@ -39,7 +39,7 @@ Video in below is my quick demo:
 
 ## 📝 Report Project
 
-Read more [here]()
+Read more [here](https://docs.google.com/document/d/1dSDXpRqeBaNDryVza7XB4idSPIsdl72Z/edit?usp=sharing&ouid=118176474592122799160&rtpof=true&sd=true)
 
 --- 
 
